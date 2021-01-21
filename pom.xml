@@ -52,7 +52,7 @@
         <poi.version>3.14</poi.version>
         <aliyun-java-sdk-core.version>4.1.0</aliyun-java-sdk-core.version>
         <spring-aspects.version>5.0.5.RELEASE</spring-aspects.version>
-        <jackson-databind.version>2.9.10.1</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
     </properties>
     <dependencyManagement>
         <dependencies>
